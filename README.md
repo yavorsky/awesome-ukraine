@@ -11,14 +11,8 @@
 - [Videos](#videos)
 - [Articles](#articles)
 - [Meetups](#meetups)
-	- [Vienna](#vienna)
-	- [Linz](#linz)
-	- [Graz](#graz)
 - [Conferences](#conferences)
 - [Museums](#museums)
-	- [Vienna](#vienna-1)
-	- [Salzburg](#salzburg)
-	- [Innsbruck](#innsbruck)
 
 ## Videos
 
@@ -29,6 +23,12 @@
 ## Articles
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Ukraine) - Wikipedia page.
+
+## Meetups
+
+## Conferences
+
+## Museums
 
 ## License
 
