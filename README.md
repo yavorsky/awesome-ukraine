@@ -23,8 +23,14 @@
 ## Articles
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Ukraine) - Wikipedia page.
+- [Worldmark Encyclopedia of Nations](http://www.encyclopedia.com/places/commonwealth-independent-states-and-baltic-nations/cis-and-baltic-political-geography-91#LOCATION_SIZE_AND_EXTENT) - Large overview by Thomson Gale.
+- [5 Best Ukraine Traditional Foods](http://www.activeukraine.com/five-best-ukraine-traditional-foods/) - What best Ukraine traditional foods do you know?
 
 ## Meetups
+
+### Kyiv
+
+- [KyivJS](http://kyivjs.org/en) - 11am, February 11th, 2017.
 
 ## Conferences
 
