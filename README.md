@@ -13,6 +13,8 @@
 - [Meetups](#meetups)
 - [Conferences](#conferences)
 - [Museums](#museums)
+- [Communities](#communities)
+
 
 ## Videos
 
@@ -35,6 +37,9 @@
 ## Conferences
 
 ## Museums
+
+## Communities
+- [.NET Core Ukrainian User Group](http://dot-net.in.ua)
 
 ## License
 
