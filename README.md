@@ -30,9 +30,10 @@
 
 ### Kyiv
 
-- [KyivJS](http://kyivjs.org/en) - 11am, February 11th, 2017.
-
 ## Conferences
+
+- [KyivJS](http://kyivjs.org/en) - 11am, February 11th, 2017.
+- [ChernivtsiJS](http://chernivtsi.js.org) - 10am, June 10th, 2017.
 
 ## Museums
 
