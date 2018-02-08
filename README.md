@@ -45,7 +45,7 @@
 
 ### Ternopil
 
-- [Apiko Full-stack intensive] 13 March - 31 May, 2018
+- [Apiko Full-stack intensive](https://dou.ua/calendar/19663) 13 March - 31 May, 2018
 
 ## Conferences
 
