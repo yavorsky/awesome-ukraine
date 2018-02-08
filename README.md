@@ -29,11 +29,35 @@
 ## Meetups
 
 ### Kyiv
+- [Неделя открытых технологий: Javascript](https://www.facebook.com/events/867045140110294) December 4th, 2017
+- [JavaScript Tonight #2](https://www.facebook.com/events/347523005711249) December 8th, 2017
+- [Angular Kyiv](https://www.meetup.com/Angular-Kyiv/events/246745196) January 18th, 2018
+- [React Kyiv](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/243944966) February 16, 2018
+- [Dev-Pro TypeScript Flow](http://typescriptflow.dev-pro.net/) February 26th - March 14-th, 2018
+- [React Kyiv: TDD in React workshop](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247392848/) March 10th, 2018
+- [React Kyiv: TDD in React workshop](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247392848/) March 10th, 2018
+- [React Kyiv](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247310850) March 23th, 2018
+
+### Kharkiv
+
+- [Dev-Pro TypeScript Flow](http://typescriptflow.dev-pro.net/) February 26th - March 14-th, 2018
+- [Съесть собаку #12](http://eatdog.com.ua/) March 15th, 2018
+
+### Ternopil
+
+- [Apiko Full-stack intensive] 13 March - 31 May, 2018
 
 ## Conferences
 
 - [KyivJS](http://kyivjs.org/en) - 11am, February 11th, 2017.
 - [ChernivtsiJS](http://chernivtsi.js.org) - 10am, June 10th, 2017.
+- [LvivJS](http://lvivjs.org.ua) - August 26th, 2017
+- [KharkivJS](http://kharkivjs.org) - October 28-th, 2017
+- [TernopilJS](https://www.facebook.com/TernopilJS) - November 18th, 2017
+- [JavaScript fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) - 6pm, March 18th, 2018
+- [JS Fest](https://frameworksdays.com/en/event/js-fwdays-2018) - 10am, March 30th, 2018
+- [You Gotta Love Frontend](http://yglf.com.ua) - 24-25 May, 2018
+- [OdessaJS](http://odessajs.org) - 6-8 July, 2018
 
 ## Museums
 
