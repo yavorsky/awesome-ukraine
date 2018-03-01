@@ -55,7 +55,7 @@
 - [KharkivJS](http://kharkivjs.org) - October 28-th, 2017
 - [TernopilJS](https://www.facebook.com/TernopilJS) - November 18th, 2017
 - [JavaScript fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) - 6pm, March 18th, 2018
-- [JS Fest](https://frameworksdays.com/en/event/js-fwdays-2018) - 10am, March 30th, 2018
+- [JS Fest](http://jsfest.com.ua/indexe.html) - 10am, March 30th, 2018
 - [You Gotta Love Frontend](http://yglf.com.ua) - 24-25 May, 2018
 - [OdessaJS](http://odessajs.org) - 6-8 July, 2018
 
