@@ -47,6 +47,10 @@
 
 - [Apiko Full-stack intensive](https://dou.ua/calendar/19663) 13 March - 31 May, 2018
 
+### Vinnytsia
+
+- [BeerJS](https://github.com/beerjs/vinnytsia/) - Every month
+
 ## Conferences
 
 - [KyivJS](http://kyivjs.org/en) - 11am, February 11th, 2017.
